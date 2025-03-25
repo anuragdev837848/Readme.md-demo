@@ -43,12 +43,6 @@ The desktop application contains the following routes:
   - Project of a particular user.
   - Shows details of people like Work experience, Education, Certificate.
 
-- **`?page=0&view=avatar`**: 
-  - Shows people in table UI.
-
-- **`?page=0&view=table`**:
-  - Shows people in box UI with image.
-
 ### Mobile
 The mobile application contains the following routes:
 
