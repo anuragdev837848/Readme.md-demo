@@ -1,21 +1,22 @@
 # IO-People Documentation
 
 ## Table of Contents
-1. [Apps: UI](#1-apps-ui)
-   - [Desktop](#desktop)
-   - [Mobile](#mobile)
-2. [Assets](#2-assets)
-3. [CustomRoles](#3-customroles)
-4. [Facets](#4-facets)
-5. [ForeignField](#5-foreignfield)
-6. [Models](#6-models)
-   - [Certificates](#certificates)
-   - [Education](#education)
-   - [Link](#link)
-   - [People](#people)
-   - [Work Experience](#work-experience)
-7. [Settings](#7-settings)
-8. [Statics](#8-statics)
+1. [Apps: UI](#1-apps-ui)  
+   - [People](#people)  
+     - [Desktop](#desktop)  
+     - [Mobile](#mobile)
+2. [Assets](#2-assets)  
+3. [CustomRoles](#3-customroles)  
+4. [Facets](#4-facets)  
+5. [ForeignField](#5-foreignfield)  
+6. [Models](#6-models)  
+   - [Certificates](#certificates)  
+   - [Education](#education)  
+   - [Link](#link)  
+   - [People](#people)  
+   - [Work Experience](#work-experience)  
+7. [Settings](#7-settings)  
+8. [Statics](#8-statics)  
 9. [Workflows](#9-workflows)
 
 ---
@@ -23,7 +24,10 @@
 ## 1. Apps: UI
 Describes the code responsible for rendering different routes and styles on both desktop and mobile devices.
 
-### Desktop
+### People
+The app displays information about people working across various companies.
+
+#### Desktop
 The desktop application contains the following routes:
 - **`/`**:
   - Home Page.
